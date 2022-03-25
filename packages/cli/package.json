@@ -9,6 +9,10 @@
     "url": "https://github.com/riksby/riksby.git",
     "directory": "packages/cli"
   },
+  "author": {
+    "name": "Simon Kirsten",
+    "email": "skirsten@riksby.com"
+  },
   "bugs": {
     "url": "https://github.com/riksby/riksby/issues"
   },
