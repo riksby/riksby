@@ -1,6 +1,6 @@
 {
   "name": "riksby",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Riksby CLI",
   "license": "Apache-2.0",
   "homepage": "https://riksby.com",
@@ -23,8 +23,7 @@
     "dist"
   ],
   "engines": {
-    "node": ">= 12",
-    "pnpm": ">= 6"
+    "node": ">= 12"
   },
   "scripts": {
     "build": "tsc"
