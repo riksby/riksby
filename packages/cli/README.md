@@ -7,7 +7,7 @@
 ## Usage
 
 ```sh
-npm install -g riksby
+npm i -g riksby
 yarn global add riksby
-pnpm global add riksby
+pnpm add -g riksby
 ```
